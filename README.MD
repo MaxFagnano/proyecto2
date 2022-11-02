@@ -33,18 +33,16 @@ ___
 
 ---
 **Idiomas:**
+
 📍 Inglés:  Escrito y oral nivel intermedio.
 
 ---
-**Herramientas**
+**Herramientas:**
+
 🔧 Manejo básico de MySQL
-
 🔧 GIT 
-
 🔧 Trello
-
 🔧 Jyra
-
 🔧 KatalonRecorder
 
 ---
