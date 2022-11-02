@@ -40,9 +40,13 @@ ___
 **Herramientas:**
 
 🔧 Manejo básico de MySQL
+
 🔧 GIT 
+
 🔧 Trello
+
 🔧 Jyra
+
 🔧 KatalonRecorder
 
 ---
